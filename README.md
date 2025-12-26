@@ -1,4 +1,4 @@
 # myshop-frontend
 
 
-This is my backend
+This is my frontend
